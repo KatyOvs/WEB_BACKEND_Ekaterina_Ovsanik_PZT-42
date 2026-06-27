@@ -93,7 +93,7 @@ if ($phpmailer_loaded) {
         
        
         $mail->Username = 'ekaterinaovsanik7@gmail.com';  
-        $mail->Password = 'kznx fxer uujr pjyt';         // Пароль приложения Gmail
+        $mail->Password = 'rrrr rrrr rrrr rrrr';         // Пароль приложения Gmail
         
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
